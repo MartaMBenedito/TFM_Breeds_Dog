@@ -46,5 +46,8 @@ Seaborn (0.9.0)
 Scikit Learn (0.20.3)
 Entregable del modelo
 
+### Ejecución del proyecto
+Para ejecutar el proyecto, abriemos una sesion de Jupyter y ejecutaremos el fichero NBA_MVP.ipynb.
+
 ### Resultado / Frontend
 El resultado del proyecto, será una lista con los 10 jugadores actuales de la presente temporada con la mayor predicción para ser el MVP de la NBA 2019-20.
