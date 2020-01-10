@@ -39,12 +39,11 @@ Jupyter Notebook
 
 Python (3.7.3)
 
-Pandas (5.7.8)
-Numpy (1.16.2)
-Matplotlib (3.0.3)
-Seaborn (0.9.0)
-Scikit Learn (0.20.3)
-Entregable del modelo
+Pandas (5.7.8),
+Numpy (1.16.2),
+Matplotlib (3.0.3),
+Seaborn (0.9.0),
+Scikit Learn (0.20.3),
 
 ### Ejecución del proyecto
 Para ejecutar el proyecto, abriemos una sesion de Jupyter y ejecutaremos el fichero NBA_MVP.ipynb.
